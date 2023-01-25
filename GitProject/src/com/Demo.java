@@ -10,7 +10,10 @@ public class Demo
 	{
 		System.out.println("this method m3");
 	}
-		
+	public void m4()
+	{
+		System.out.println("this method m4");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello");
