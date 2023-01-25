@@ -14,6 +14,10 @@ public class Demo
 	{
 		System.out.println("this method m4");
 	}
+	public void m5()
+	{
+		System.out.println("this method m5");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello");
